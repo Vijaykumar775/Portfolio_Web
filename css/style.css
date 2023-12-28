@@ -88,7 +88,7 @@ section{
     position: relative;
     height: 100vh;
     width:100%;
-    background-image: url("12.png");
+    background-image: url(12.png);
     background-size: cover;
     background-position: center;
     display:flex;
@@ -249,7 +249,7 @@ s-icons i{
     color: var(--second-color);
     font-size: 1rem;
     line-height: 1.8;
-    margin-bootom:25px
+    margin-bottom: 25px;
 }
 
 .box:hover{
